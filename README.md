@@ -7,7 +7,7 @@ A userscript that exports **Google AI mode** conversations to Markdown. Works wi
 
 ### Requirements
 - Browser: Chrome, Firefox, Edge, etc.
-- Userscript manager: Tampermonkey, Greasemonkey, or Violentmonkey
+- Userscript manager: Tampermonkey, Greasemonkey, or Violentmonkey...
 
 ### Installation
 1. Install Tampermonkey (or another userscript manager) from your browser's extension store.
